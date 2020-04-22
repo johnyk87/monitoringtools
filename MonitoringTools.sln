@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.852
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JK.Tools.Monitoring.AspNetCore", "JK.Tools.Monitoring.AspNetCore\JK.Tools.Monitoring.AspNetCore.csproj", "{8E421FA3-F42D-4D9F-B099-5168EFE64030}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JK.Tools.Monitoring.TestApp", "JK.Tools.Monitoring.TestApp\JK.Tools.Monitoring.TestApp.csproj", "{8DFFD2E1-4434-42E3-AAC7-3772FF103579}"
+EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8A661CC5-8102-443A-B4CF-BBC8D530570B}"
 	ProjectSection(SolutionItems) = preProject
 		.gitattributes = .gitattributes
@@ -22,6 +24,10 @@ Global
 		{8E421FA3-F42D-4D9F-B099-5168EFE64030}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E421FA3-F42D-4D9F-B099-5168EFE64030}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E421FA3-F42D-4D9F-B099-5168EFE64030}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DFFD2E1-4434-42E3-AAC7-3772FF103579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DFFD2E1-4434-42E3-AAC7-3772FF103579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DFFD2E1-4434-42E3-AAC7-3772FF103579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DFFD2E1-4434-42E3-AAC7-3772FF103579}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
