@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JK.Tools.Monitoring.AspNetCore", "JK.Tools.Monitoring.AspNetCore\JK.Tools.Monitoring.AspNetCore.csproj", "{8E421FA3-F42D-4D9F-B099-5168EFE64030}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8A661CC5-8102-443A-B4CF-BBC8D530570B}"
+	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		analyzers.ruleset = analyzers.ruleset
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E421FA3-F42D-4D9F-B099-5168EFE64030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E421FA3-F42D-4D9F-B099-5168EFE64030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E421FA3-F42D-4D9F-B099-5168EFE64030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E421FA3-F42D-4D9F-B099-5168EFE64030}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E8140B5-DFC7-4946-8EF2-5D0F3E247741}
+	EndGlobalSection
+EndGlobal
